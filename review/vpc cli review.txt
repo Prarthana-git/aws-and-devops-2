@@ -1,0 +1,12 @@
+"VpcId": "vpc-0f1d5da248a9b9fce", 192.168.0.0/16
+        "OwnerId": "373053331828",
+"SubnetId": "subnet-09045c9699352438d" public 192.168.1.0/24
+ "InternetGatewayId": "igw-079b383aecb2e225e",
+ "RouteTableId": "rtb-0cf60b037d26c99c9"public
+
+SubnetId": "subnet-09619c05eb19144e0"  private 192.168.2.0/24 
+AllocationId": "eipalloc-0600bd8e43d924699"
+ "NatGatewayId": "nat-00f050ab9b581aab6"
+
+"RouteTableId": "rtb-0cec50bf1c0efd06d"private
+
